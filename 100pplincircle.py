@@ -14,3 +14,4 @@ def kill(n):
     return persons[0]
 
 print kill(100)
+print 'hello'
