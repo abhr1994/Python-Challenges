@@ -1,2 +1,3 @@
 # Python-Challenges
-Solutions to geeks for geeks python questions
+Solutions to some python questions. 
+Also has some important scripts
