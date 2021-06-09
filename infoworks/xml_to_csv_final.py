@@ -348,4 +348,4 @@ if __name__=="__main__":
                 raise Exception("Processing failed for some xml files...see the log file for more details")
 
     os.system(
-        """curl -X POST -H 'Authorization: Bearer xoxb-4963982146-514692973266-g9tNQt4K6iuhSpXueBdVQnGA' -H 'Content-type: application/json' --data '{"channel":"UCFKCUW10","text":"XML to CSV Conversion and Data validation are done"}' https://slack.com/api/chat.postMessage""")
+        """curl -X POST -H 'Authorization: Bearer <>' -H 'Content-type: application/json' --data '{"channel":"UCFKCUW10","text":"XML to CSV Conversion and Data validation are done"}' https://slack.com/api/chat.postMessage""")
