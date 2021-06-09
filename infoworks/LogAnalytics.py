@@ -20,7 +20,7 @@ def get_bearer_token():
     # YWRtaW5AaW5mb3dvcmtzLmlvOjEyMzQ1Ng==
     url = '{protocol}://{ip}:{port}/v2/user/auth_token'.format(ip='10.16.11.2', port=2999, protocol='http')
     headers = {
-        'Authorization': 'Basic YWJoaXNoZWsucmF2aXByYXNhZEBpbmZvd29ya3MuaW86UzFzMWxpYW5A',
+        'Authorization': 'Basic <>',
         'Content-Type': 'application/json'
     }
     response = requests.request("GET", url, headers=headers)
@@ -248,8 +248,8 @@ def get_table_info(config, source_id, table_id):
 
 
 def send_events_to_loganalytics(metrics_data,table_name):
-    azure_log_customer_id = 'a8fa36a5-f2f1-4c70-a79c-8663fb2edf13'
-    azure_log_shared_key = 'darYekIiBkSJmBJr+e4QU2Nj9qvFJolbvsVhTCvXTRufOjRxWVRch+N8YxHOawrDYzP2kF1kb/8C6vUSPObqXA=='
+    azure_log_customer_id = ''
+    azure_log_shared_key = ''
     data_json = json.dumps(metrics_data)
     try:
         post_data(azure_log_customer_id, azure_log_shared_key, data_json, table_name)
