@@ -1,0 +1,789 @@
+<p />
+
+<table width="1994" cellspacing="1" cellpadding="0" height="2809" border="1"> <tbody><tr><th>Server</th><th>ACSLS</th><th>Library</th><th>Data Centre</th><th>Quad/Zone</th><th>Environment Supported</th><th>Archive Server</th><th colspan="2">Media Server</th></tr> <tr><td><a href="https://" target="_top">adc07osbadm03</a></td><td>adc-acsls2</td><td>ADC-SL3K02</td><td>ADC</td><td>Zone07</td><td>
+
+<p />
+
+On Demand- RMAN/NDMP (Netapp) adc07ntap05/06/07/08/09/10/11/12/13/14/15/16/
+
+<p />
+
+adc07ntap21/22/23/24/25/26/27/28/29/30/31/32/33/34/35/36/37/38
+
+</td><td>adc07osbmed304</td><td colspan="2">adc07osbmed301, adc07osbmed302 , adc07osbmed303, adc07osbmed304</td></tr> <tr><td><a href="https://" target="_top">adc07osbadm04</a></td><td>adc-acsls3</td><td>ADC-SL3K03</td><td>ADC</td><td>Zone07</td><td>
+
+<p />
+
+On Demand-NDMP/Arch
+
+<p />
+
+SUN filers adc07stor01 to adc07stor24
+
+</td><td>All media servers</td><td colspan="2">
+
+<p />
+
+adc07osbmed401, adc07osbmed402, adc07osbmed403, adc07osbmed404
+
+</td></tr> <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td colspan="2">
+
+<p />
+
+</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc08osbadm02" target="_top">adc08osbadm02</a></td><td>adc-acsls6</td><td>ADC-SL3K06</td><td>ADC</td><td>Zone 08</td><td>
+
+<p />
+
+On Demand-NDMP/Arch adc08ntap01/02/03/04 adc08ntap11/12/13/17/18/96/97 adc08stor01/02/03/04/07/08/09/10/11/12
+
+<p />
+
+adc08stor13/14/15/16/17/18/19/20/21/22/23/24
+
+</td><td>adc08osbmed202 adc08osbmed201</td><td colspan="2">
+
+<p />
+
+adc08osbadm02, adc08osbmed201, adc08osbmed202
+
+</td></tr> <tr><td><a href="https://" target="_top">adc09osbadm02</a></td><td>adc-acsls3</td><td>ADC-SL3K03</td><td>ADC</td><td>--</td><td>
+
+<p />
+
+NDMP and Archive
+
+<p />
+
+adc09stor01/02/03/04/05/06/07/08/09/10/11/12/13/14/15/16/17/18/19/24/25/26/27/28/29/30
+
+</td><td>adc09osbmed201 adc09osbmed202 adc09osbmed203</td><td colspan="2">
+
+<p />
+
+adc09osbmed201, adc09osbmed202, adc09osbmed203, adc09osbmed204
+
+</td></tr> <tr><td><a href="https://" target="_top">adc09osbadm101</a></td><td>adc-acsls2</td><td>ADC-SL3K02</td><td>ADC</td><td>--</td><td>
+
+<p />
+
+NDMP and RMAN
+
+<p />
+
+adc09stor20/21/2/23
+
+<p />
+
+adc09stor31/32/33/34/35/36/37/38/39/40
+
+<p />
+
+adc09ntap05/06/07/08/11/12/13/14/15/16/17/18/19/20/21/22/25/26/27/28/29/30/33/34/41/42/43/44
+
+<p />
+
+</td><td>adc09osbarc101</td><td colspan="2">
+
+<p />
+
+adc09osbexamed101, adc09osbexamed102 (not in service), adc09osbmed101, adc09osbmed102, adc09osbmed103,adc09osbmed104, adc09osbarc101
+
+</td></tr> <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td>
+
+<p />
+
+</td><td> </td><td colspan="2">
+
+<p />
+
+</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc15osbadm02" target="_top">adc15osbadm02</a></td><td>
+
+<p />
+
+adc-acsls1
+
+<p />
+
+adc-acsls4
+
+</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K01
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K04
+
+</td><td>ADC</td><td>Q10Z15</td><td>
+
+<p />
+
+adc15ntap15
+
+<p />
+
+adc15stor01 to stor22
+
+<p />
+
+adc15xstor01,03
+
+</td><td>
+
+<p />
+
+All media servers
+
+</td><td colspan="2">adc15osbmed201, adc15osbmed202, adc15osbmed203, adc15osbmed204</td></tr> <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td>
+
+<p />
+
+</td><td> </td><td colspan="2"> </td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc26osbadm02" target="_top">adc26osbadm02</a></td><td>
+
+<p />
+
+adc-acsls1
+
+<p />
+
+adc-acsls4
+
+</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K01
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K04
+
+</td><td>ADC</td><td>Q13Z26</td><td>(adc26ntap01/02/03/04/05/06/07/08/09/10/11/12/17/18/19/20/21/22/23/24/27/28/32 adc26stor01/02/03/04/05/06/07/08/09/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/32)</td><td>All media servers
+
+<p />
+
+</td><td colspan="2">adc26osbmed201,adc26osbmed202, adc26osbmed203, adc26osbmed204</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc31osbadm02" target="_top">adc31osbadm02</a></td><td>
+
+<p />
+
+adc-acsls1
+
+<p />
+
+adc-acsls4
+
+</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K01
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K04
+
+</td><td>ADC</td><td>Q13Z31</td><td>
+
+<p />
+
+On Demand-NDMP/Arch (adc31ntap01/02/03/04/13/14)
+
+<p />
+
+(adc31ntap07/08/09/10)
+
+<p />
+
+(adc31stor01/02/03/04/05/06/07/08/09/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24)
+
+<p />
+
+(adc31xstor01/03)
+
+</td><td>adc31osbmed201,adc31osbmed202</td><td colspan="2">
+
+<p />
+
+adc31osbmed201,adc31osbmed202,
+
+<p />
+
+adc31osbmed203,adc31osbmed204
+
+</td></tr> <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td colspan="2">
+
+<p />
+
+</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc32osbadm02" target="_top">adc32osbadm02</a></td><td>
+
+<p />
+
+adc-acsls6
+
+<p />
+
+adc-acsls5
+
+</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K06
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K05
+
+</td><td>ADC</td><td>Q10Z32</td><td>Arch and NDMP (CRM)
+
+<p />
+
+adc32ntap01/02/03/04/05/06<br />13/14/15/16/17/18/19/20/21/22/25/26/27/28/29/30/35/36/39/40
+
+<p />
+
+adc32stor01/02/03/04/05/06
+
+<p />
+
+</td><td>All media servers</td><td colspan="2">adc32osbmed201,adc32osbmed202, adc32osbmed203, adc32osbmed204</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc3osbadm101" target="_top">adc33osbadm101</a></td><td>NO ACSLS</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K98
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K99
+
+</td><td>ADC</td><td>Q12Z33/Z34</td><td>FOD</td><td>All media servers</td><td colspan="2">adc33osbmed201, adc33osbmed202</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc36osbadm02" target="_top">adc36osbadm02</a></td><td>
+
+<p />
+
+adc-acsls1
+
+<p />
+
+adc-acsls4
+
+</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K01
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K04
+
+</td><td>ADC</td><td>Q5Z36</td><td>
+
+<p />
+
+CRMOD-NDMP
+
+<p />
+
+(adc36ntap10/11/12/13/14/15/16/17/18/19/20/23/24/25/26/27/28 adc36ntap35/36)<br />CRMOD-NDMP
+
+<p />
+
+adc36ntap29, adc36ntap30/34
+
+<p />
+
+<br />(adc36stor01/02/03/04/05/06/11/12/13/14)<br />(adc36xstor01/03)
+
+<p />
+
+adc36ntap01/02/03/04/05/06/07/08/09/31/32/33
+
+<p />
+
+adc36stor07/08/09/10 adc36stortest01/02
+
+</td><td>adc36osbmed201,adc36osbmed202</td><td colspan="2">
+
+<p />
+
+adc36osbmed201,adc36osbmed202,
+
+<p />
+
+adc36osbmed203,ad36osbmed204
+
+</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc39osbadm01" target="_top">adc39osbadm01</a></td><td>
+
+<p />
+
+adc-acsls5
+
+<p />
+
+adc-acsls6
+
+</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K05
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K06
+
+</td><td>ADC</td><td>Q6 Zone39</td><td>On Demand - NDMP/Arch
+
+<p />
+
+adc39xstor01/02/03/05/07/09/13/15
+
+</td><td>adc39osbmed101</td><td colspan="2">adc39osbmed101, adc39osbmed102</td></tr> <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td colspan="2">
+
+<p />
+
+</td></tr> <tr><td>
+
+<p />
+
+<a href="https://globaldc.oracle.com/host/detail/adc39osbadm02" target="_top">adc39osbadm02</a>
+
+<p />
+
+( CVOR DEDICATED )
+
+</td><td>
+
+<p />
+
+adc-acsls10
+
+<p />
+
+adc-acsls9
+
+</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K10
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K09
+
+</td><td>ADC</td><td>Q6 Zone39</td><td>adc39xstor07/09/11/19/20</td><td>adc39osbmed201</td><td colspan="2">adc39osbmed201, adc39osbmed202</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc39osbadm03" target="_top">adc39osbadm03</a></td><td>
+
+<p />
+
+adc-acsls5
+
+<p />
+
+adc-acsls6
+
+</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K05
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K06
+
+</td><td>ADC</td><td>Q6 Zone39</td><td>
+
+<p />
+
+On Demand - NDMP (still in process of migration from adc39osbadm01)
+
+<p />
+
+adc39stor01 to adc39stor30
+
+</td><td>adc39osbmed101</td><td>adc39osbmed301, adc39osbmed302</td><td>
+
+<p />
+
+</td></tr> <tr><td>[[https://globaldc.oracle.com/host/detail/adcq06osbadm01][adcq06osbadm01]</td><td>
+
+<p />
+
+DECOM
+
+<p />
+
+adc-acsls10
+
+</td><td>
+
+<p />
+
+DECOM
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K10
+
+</td><td>ADC</td><td>
+
+<p />
+
+DECOM
+
+<p />
+
+Q6(Cloud Zone)
+
+</td><td>
+
+<p />
+
+DECOM - only restores
+
+<p />
+
+On Demand
+
+</td><td>
+
+<p />
+
+DECOM
+
+<p />
+
+adcq06osbmed101
+
+</td><td colspan="2">
+
+<p />
+
+DECOM only for restores
+
+<p />
+
+adcq06osbmed101, adcq06osbmed102
+
+</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc08osbadm0601" target="_top">adc08osbadm0601</a></td><td>
+
+<p />
+
+adc-acsls10
+
+<p />
+
+adc-acsls9
+
+</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K10
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K09
+
+</td><td>ADC</td><td>Q6(Cloud Zone)</td><td>auc043oodstor01/02/03/04<br />auc044oodstor01/02/03/04<br />auc045oodstor01/02/03/04</td><td>adc08osbmed0601</td><td colspan="2">adc08osbmed0601, adc08osbmed0602</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc08osbadm0611" target="_top">adc08osbadm0611</a></td><td>
+
+<p />
+
+adc-acsls9
+
+<p />
+
+adc-acsls10
+
+</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K09
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K10
+
+</td><td>ADC</td><td>Q6(Cloud Zone)</td><td>auc042oodstor001/02<br />auc042oodstor07/08<br />auc046oodstor01/02/03/04<br />auc047oodstor01/02/03/04<br />auc048oodstor01/02/03/04</td><td>
+
+<p />
+
+adc08osbmed0611-agg
+
+<p />
+
+adc08osbmed0612-agg
+
+</td><td colspan="2">adc08osbmed0611-agg, adc08osbmed0612-agg</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc08osbadm1001" target="_top">adc08osbadm1001</a></td><td>
+
+<p />
+
+adc-acsls9
+
+<p />
+
+adc-acsls10
+
+</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K09
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K10
+
+</td><td>ADC</td><td>Q10 (Cloud Zone0</td><td>auc049oodstor01/02/03/04<br />auc050oodstor01/02/03/04<br />auc051oodstor01/02/03/04<br />auc052oodstor01/02/03/04 <br />auc053oodstor01/02/03/04<br />auc054oodstor01/02/03/04</td><td>adc08osbmed1001</td><td colspan="2">adc08osbmed1001, adc08osbmed1002</td></tr> <tr><td> <a href="https://globaldc.oracle.com/host/detail/adc94osbadm01" target="_top">adc94osbadm01</a><br /><br />#### Ascension Dedicated Server ####<br /></td><td>adc-acsls11</td><td>ADC-SL3K11</td><td>ADC</td><td>Zone94<br /></td><td>auc094oodstor01/02<br />adc94xstor01<br />adc94xstor03<br />adc94xstor05</td><td> </td><td colspan="2"> adc94osbmed0101, adc94osbmed0102</td></tr><tr><td><a href="https://globaldc.oracle.com/host/detail/rm02osbadm03" target="_top">rm02osbadm03</a></td><td>rmacsls01 </td><td>rmlib01</td><td>RMDC</td><td>Zone2</td><td>On Demand rm02ntap01/07/08/09/10/11/12/13/14/15/16/17/18 rm02stor03/04/05/06/09/10/11/12/13/14/17/18/19/21/22/26/29/30/31 rmohsntap08</td><td>
+
+<p />
+
+rm02osbmed301
+
+<p />
+
+rm02osbmed302
+
+</td><td colspan="2">
+
+<p />
+
+rm02osbmed301, rm02osbmed302, rm02osbmed303, rm02osbmed304, rm02osbexamed301 (not in service)
+
+</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/rmdc02osbadm101" target="_top">rmdc02osbadm101</a></td><td>rmacsls-sl3k01</td><td>rmlib01</td><td>RMDC</td><td>Zone2</td><td>
+
+<p />
+
+rm02stor40/41<br />rm02stor42/43<br />rm02stor44/45<br />rm02stor46/47<br />rm02stor48/49<br />rm02stor50/51<br />rm02stor52/53<br />rm02stor54
+
+<p />
+
+rm02stor55/56<br />rm02stor57/58<br />rm02xstor01 <br />rm02stor73/74
+
+<p />
+
+</td><td>rmdc02osbmed102</td><td colspan="2">rmdc02osbmed101, rmdc02osbmed102</td></tr> <tr><td>
+
+<p />
+
+rmdc02osbadm02
+
+<p />
+
+(Only NDMP and Archivelog backup, Don't configure RMAN backup here)
+
+</td><td> </td><td> rmdc-sl3k02</td><td> RMDC</td><td> Zone 2<br /></td><td> rm02stor01/02/07/08/15/16/20/23/24/25/27/28/32/33/34</td><td> rmdc02osbmed201</td><td colspan="2"> rmdc02osbmed201,rmdc02osbmed202</td></tr><tr><td><a href="https://globaldc.oracle.com/host/detail/llg02osbadm01" target="_top">llg02osbadm01</a></td><td>llg02acsls01 </td><td>llg-sl3k</td><td>LLG</td><td>Zone2</td><td>On Demand
+
+<p />
+
+llg01ntap01/02
+
+<p />
+
+llg01stor01/02/03/04/05/06/07/08/09
+
+<p />
+
+llg02stor01/02
+
+<p />
+
+llg02stor13/14
+
+</td><td>lg02osbmed101</td><td colspan="2">llg02osbmed101, llg02osbmed102</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/llg06osbadm01" target="_top">llg06osbadm01</a></td><td> </td><td>llg07sl3k01</td><td>LLG</td><td>Zone6</td><td>On Demand
+
+<p />
+
+llg06stor17/18/19/20/
+
+<p />
+
+llg06xstor05/07
+
+</td><td>llg06osbmed101</td><td colspan="2">llg06osbmed101, llg06osbmed102</td></tr> <tr><td>llg06osbadm03</td><td> </td><td>llg07sl3k01</td><td>LLG</td><td>Zone6</td><td>
+
+<p />
+
+llg06stor01/02/03/04/05/06/07/08/09/10/11/12/13/14/15/16/21/22/23/24
+
+<p />
+
+llg06xstor01/03
+
+</td><td>llg06osbmed101</td><td colspan="2">llg06osbmed105,llg06osbmed106</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/llg07osbadm01" target="_top">llg07osbadm01</a></td><td> </td><td>llg07sl3k01</td><td>LLG</td><td>Zone7</td><td>On Demand</td><td>---</td><td colspan="2">llg07osbmed101, llg07osbmed102</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/llg06osbadm04" target="_top">llg06osbadm04</a></td><td>llg07acsls01 </td><td>llg07sl3k02</td><td>LLG</td><td>Zone6</td><td>
+
+<p />
+
+llg06stor25/26/27/2/29/30
+
+<p />
+
+llg06xstor09/11/1/17
+
+</td><td> llg06osbmed107</td><td colspan="2">
+
+<p />
+
+llg06osbmed107,
+
+<p />
+
+llg06osbmed108,
+
+<p />
+
+</td></tr> <tr><td><br /><a href="https://globaldc.oracle.com/host/detail/llgq03osbadm01" target="_top">llgq03osbadm01</a></td><td>llg07acsls01 </td><td>llg07sl3k01 / 10.160.154.206</td><td>LLG Cloud Zone</td><td>Zone1</td><td>
+
+<p />
+
+llc010oodstor01/02/03/04
+
+<p />
+
+llc011oodstor01/2/3/4
+
+</td><td>llgq03osbmed101</td><td colspan="2">llgq03osbmed101, llgq03osbmed102</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/tvp02osbadm01" target="_top">tvp02osbadm01</a></td><td> </td><td>tvp-sl3k</td><td>TVP</td><td>Zone2</td><td>On Demand</td><td>tvp02osbmed101</td><td colspan="2">tvp02osbmed101</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/sldc04osbadm01" target="_top">sldc04osbadm01</a></td><td>sldc05acsls01 </td><td>sdc-sl3k</td><td>SLDC</td><td>Zone5</td><td>On Demand
+
+<p />
+
+sl04ntap01/02
+
+<p />
+
+sl04stor49/50/51/52/53/54/55/56/57/58/59/60/61/62/63/64/66/75
+
+<p />
+
+sl04stor01/02/03/04/05/06/07/08/09/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/20/31/32/33/34/37/38/39/40/41/42/43/44/45/46
+
+<p />
+
+sl04xstor01/03/05/06/09/11
+
+</td><td>All media servers</td><td colspan="2">sldc04osbmed101, sldc04osbmed102, sldc04osbmed103, sldc04osbmed104</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/sldc04osbadm02" target="_top">sldc04osbadm02</a></td><td> </td><td>sdc-sl3k01</td><td>SLDC</td><td>Zone4</td><td>
+
+<p />
+
+On Demand -- sl04stor09/10/11/12/13/14/15/16/21/22/23/24/25/26
+
+</td><td>sldc04osbmed105</td><td colspan="2">sldc04osbmed105, sldc04osbmed106</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/sldc05osbadm01" target="_top">sldc05osbadm01</a></td><td> </td><td>sdc-sl3k</td><td>SLDC</td><td>Zone5</td><td>
+
+<p />
+
+On Demand -- sl05stor01/02/03/04
+
+<p />
+
+slc007oodstor01/02/03/04 <br />slc010oodstor01/02/03/04
+
+</td><td>sldc05osbmed101</td><td colspan="2">sldc05osbmed101, sldc05osbmed102</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/sldc05osbadm0101" target="_top">sldc05osbadm0101</a></td><td>sldc05acsls02 </td><td>sdc-sl3k02</td><td>SLDC</td><td>Zone5</td><td>
+
+<p />
+
+slc008oodstor01<br />slc008oodstor02<br />slc008oodstor03<br />slc008oodstor04<br />slc006oodstor01/02/03/04<br />slc009oodstor01/02/03/04<br />slc012oodstor01/02/03/04<br />slc013oodstor01/02/03/04
+
+<p />
+
+slc014oodstor01/02/03/04
+
+</td><td>sldc05osbmed0101</td><td colspan="2">
+
+<p />
+
+sldc05osbmed0101,
+
+<p />
+
+sldc05osbmed0102
+
+<p />
+
+</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/sldc05osbadm0111" target="_top">sldc05osbadm0111</a></td><td>sldc05acsls02 </td><td>sdc-sl3k02</td><td>SLDC</td><td>Zone5</td><td>slc040oodstor01 to 10<br />slc050oodstor01,slc050oodstor02,slc050oodstor03,slc050oodstor04,slc050oodstor07,slc050oodstor08</td><td>sldc05osbmed0111-agg</td><td colspan="2">sldc05osbmed0111-agg, sldc05osbmed0112-agg</td></tr> <tr><td>
+
+<p />
+
+<a href="https://globaldc.oracle.com/host/detail/sldc04osbadm03" target="_top">sldc04osbadm03</a>
+
+<p />
+
+( CVOR DEDICATED )
+
+</td><td> </td><td>sdc-sl3k01</td><td>SLDC</td><td>Zone4</td><td>
+
+<p />
+
+sl04xstor07/ 09
+
+<p />
+
+sl04stor63/64/03/61
+
+</td><td>sldc04osbmed301</td><td colspan="2">
+
+<p />
+
+sldc04osbmed30
+
+<p />
+
+sldc04osbmed302
+
+</td></tr> <tr><td>sldc05osbadm0201</td><td> </td><td>sdc-sl3k02</td><td>SLDC</td><td>Zone5</td><td> </td><td>sldc05osbmed0202</td><td colspan="2">sldc05osbmed0201, sldc05osbmed0202</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/sldc39osbadm01" target="_top">sldc39osbadm01</a><br /><br />#### Ascension Dedicated Server ####</td><td>sldc05acsls03</td><td>sdc-sl3k03</td><td>SLDC</td><td>Zone39</td><td>slc039oodstor01,slc039oodstor01,sl39xstor01,sl39xstor03,sl39xstor05 </td><td>sldc39osbmed101 </td><td colspan="2"> </td></tr><tr><td><a href="https://globaldc.oracle.com/host/detail/sydc01osbadm0101" target="_top">sydc01osbadm0101</a></td><td> </td><td>sydclib01</td><td>SYDC</td><td>Zone1</td><td>
+
+<p />
+
+CRM Only syc003oodstor01,syc003oodstor02,syc003oodstor04
+
+</td><td> </td><td colspan="2">sydc01osbmed0101</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/sydc01osbadm0111" target="_top">sydc01osbadm0111</a></td><td> </td><td style="text-align: left">sydclib02</td><td>SYDC</td><td>Zone2</td><td>
+
+<p />
+
+OD syc002oodstor01,syc002oodstor02,syc002oodstor03,syc002oodstor04,syc004oodstor01,syc004oodstor02
+
+</td><td> </td><td colspan="2">sydc01osbmed0111</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/adc08osbadm0501" target="_top">adc08osbadm0501</a></td><td>
+
+<p />
+
+adc-acsls9
+
+<p />
+
+adc-acsls10
+
+</td><td style="text-align: left">
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K09
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a>-SL3K10
+
+</td><td>ADC</td><td>Q5 ( cloud zone )</td><td>
+
+<p />
+
+<a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a> Quad 05 aggregation which consists of <a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a> Cloud Zones 55, 56, 57, 58, 59, and 60 <br />auc055oodstor01/02/03/04<br />auc056oodstor01/02/03/04<br />auc057oodstor01/02/03/04<br />auc058oodstor01/02/03/04<br />auc059oodstor01/02/03/04<br />auc060oodstor01/02/03/04
+
+</td><td> </td><td colspan="2">adc08osbmed0501,adc08osbmed0502</td></tr> <tr><td><a href="https://globaldc.oracle.com/host/detail/epdc01osbadm0101" target="_top">epdc01osbadm0101</a></td><td> </td><td>epdclib01</td><td>EPDC</td><td>zone01</td><td>epc002oodstor01, epc002oodstor02</td><td>epdc01osbmed0101</td><td colspan="2">epdc01osbmed0101</td></tr> <tr><td>TRDC01OSBADM02<br /></td><td> TRDC-ACSLS02</td><td> <span class="twikiNewLink">TRDC01LIB02<a href="/perl/twiki/edit/Operations/TRDC01LIB02?topicparent=Operations.CITBkpSrvrs" rel="nofollow" title="Create this topic">?</a></span> </td><td> TRDC</td><td> ZONE 01<br /></td><td>
+
+<p />
+
+<span class="twikiNewLink">TRDC002OODSTOR01<a href="/perl/twiki/edit/Operations/TRDC002OODSTOR01?topicparent=Operations.CITBkpSrvrs" rel="nofollow" title="Create this topic">?</a></span> /02/03/04/07/0811/12
+
+<p />
+
+<span class="twikiNewLink">TR02XSTOR01<a href="/perl/twiki/edit/Operations/TR02XSTOR01?topicparent=Operations.CITBkpSrvrs" rel="nofollow" title="Create this topic">?</a></span> /02/03/04/05/06
+
+</td><td> <span class="twikiNewLink">TRDC01OSBADM101<a href="/perl/twiki/edit/Operations/TRDC01OSBADM101?topicparent=Operations.CITBkpSrvrs" rel="nofollow" title="Create this topic">?</a></span> </td><td colspan="2"> <span class="twikiNewLink">TRDC01OSBMED101<a href="/perl/twiki/edit/Operations/TRDC01OSBMED101?topicparent=Operations.CITBkpSrvrs" rel="nofollow" title="Create this topic">?</a></span> /102</td></tr><tr><td> trdc01osbadm0101 </td><td> </td><td> </td><td> TRDC</td><td> zone101</td><td>
+
+<p />
+
+trc001oodstor01/02 and trc002oodstor01/02
+
+</td><td> trdc01osbmed0101</td><td colspan="2"> </td></tr><tr><td> adc08osbadm0301</td><td> </td><td> </td><td> <a class="twikiLink" href="/perl/twiki/view/Operations/ADC">ADC</a></td><td> zone70</td><td> auc070oodstor01/02/03/04</td><td> </td><td colspan="2"> adc08osbmed0301, <br />adc08osbmed0302</td></tr><tr><td> <a href="https://globaldc.oracle.com/host/detail/cgydc01osbadm01" target="_top">cgydc01osbadm01</a><br /><br /></td><td>cgydc-acsls01</td><td> cgyddlib01</td><td>CGYDC</td><td> zone01</td><td>cgc001oodstor01/02<br />cgc002oodstor01/02<br />cgc002oodstor03/04</td><td> cgydc01osbmed101</td><td colspan="2">cgydc01osbmed101<br />cgydc01osbmed102</td></tr></tbody></table> </div><!-- /patternTopic-->

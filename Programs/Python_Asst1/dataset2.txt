@@ -1,0 +1,9 @@
+NAME,STRIDE_LENGTH,STANCE
+Euoplocephalus,1.87,quadrupedal
+Stegosaurus,1.90,quadrupedal
+Tyrannosaurus Rex,5.76,bipedal
+Hadrosaurus,1.4,bipedal
+Struthiomimus,1.34,bipedal
+Velociraptor,2.72,bipedal
+
+

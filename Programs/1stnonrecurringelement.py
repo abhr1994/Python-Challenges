@@ -1,8 +1,8 @@
 import sys
 ##l=['a','b','c','a','b','c']
 #l=['a','b','c']
-#l=['a','b','c','a','b']
-l=['a','a','a']
+l=['a','b','c','a','b']
+#l=['a','a','a']
 
 for i,j in enumerate(l[:]):
     l1=l[:]
